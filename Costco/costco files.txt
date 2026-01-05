@@ -1,1 +1,4 @@
 new files will be uploaded
+Once you create folder;
+we need to have file can be txt or readme;
+always there should be files inside the folder
